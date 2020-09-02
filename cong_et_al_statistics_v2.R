@@ -1,3 +1,6 @@
+# All MaxQuant output referenced below was downloaded from the Cong et al data repository
+# at ProteomeXchagne: PXD016921 
+
 # Source functions
 source("code/functions_parameters.R")
 
