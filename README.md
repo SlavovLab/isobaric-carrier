@@ -30,7 +30,7 @@ DO-MS is a project...
 
 The manuscript for this tool is published at the Journal of Proteome Research: [https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039)
 -->
-The manuscript is freely available on bioRxiv: [Specht and Slavov, 2019](https://doi.org/10.1101/2020.08.24.264994).
+The manuscript is freely available on bioRxiv: [Specht and Slavov, 2020](https://doi.org/10.1101/2020.08.24.264994), doi: [10.1101/2020.08.24.264994](https://doi.org/10.1101/2020.08.24.264994)
 
 Contact the authors by email: [nslavov\{at\}northeastern.edu](mailto:nslavov@northeastern.edu).
 
