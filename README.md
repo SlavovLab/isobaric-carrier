@@ -7,9 +7,9 @@ Optimizing accuracy and depth of protein quantification in experiments using iso
 
 * [Website](https://scope2.slavovlab.net/mass-spec/Isobaric-carrier-optimization)
 * [Download data](https://scope2.slavovlab.net/mass-spec/Isobaric-carrier-optimization#data)
-* [Manuscript](https://www.biorxiv.org/content/10.1101/2020.08.24.264994v2)
+* [Manuscript](https://www.biorxiv.org/content/10.1101/2020.08.24.264994v3)
 
-<img src="https://scope2.slavovlab.net/mass-spec/Figures/Single-cell_Applications_iCarrier.png" width="70%">
+<img src="https://scope2.slavovlab.net/mass-spec/Figures/Single-cell-Proteomics_Applications_iCarrier.png" width="70%">
 
 
 
