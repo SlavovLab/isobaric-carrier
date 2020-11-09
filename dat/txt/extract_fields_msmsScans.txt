@@ -1,0 +1,11 @@
+MonoMz
+z
+RT
+Score
+modif
+injectT
+MS2ID
+ScanNum
+apexOffset
+Mass
+numPSMs

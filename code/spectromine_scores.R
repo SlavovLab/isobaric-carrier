@@ -54,15 +54,14 @@ ggplot(df2, aes(y=rf, x=PSM.Score)) +
         axis.title.y = element_text(color = "grey20", size = 20, angle = 90, hjust = .5, vjust = .5, face = "plain"))
 
 
-df.low<-df2[grep("s00",df2$rf), ]
-df.high<-df2[-grep("s00",df2$rf), ]
+# # For sharing in a convenient format 
+# df.low<-df2[grep("s00",df2$rf), ]
+# df.high<-df2[-grep("s00",df2$rf), ]
+# 
+# library(plyr)
+# df.low$carr<-revalue(df.low$rf, c(hs0041.raw = "100",hs0043.raw="200", hs0042.raw="300", hs0044.raw="400", hs0045.raw="600", hs0046.raw="800"))
+# df.high$carr<-revalue(df.high$rf, c(hs0100.raw = "100",hs0102.raw="200", hs0101.raw="300", hs0103.raw="400", hs0104.raw="600", hs0105.raw="800"))
+# 
+# write.csv(df.low[, c(7,10)], "SM_scores_low.csv",row.names = F)
+# write.csv(df.high[, c(7,10)], "SM_scores_high.csv",row.names = F)
 
-library(plyr)
-df.low$carr<-revalue(df.low$rf, c(hs0041.raw = "100",hs0043.raw="200", hs0042.raw="300", hs0044.raw="400", hs0045.raw="600", hs0046.raw="800"))
-df.high$carr<-revalue(df.high$rf, c(hs0100.raw = "100",hs0102.raw="200", hs0101.raw="300", hs0103.raw="400", hs0104.raw="600", hs0105.raw="800"))
-
-write.csv(df.low[, c(7,10)], "SM_scores_low.csv",row.names = F)
-write.csv(df.high[, c(7,10)], "SM_scores_high.csv",row.names = F)
-
-dim(df.low)
-dim(df.high)

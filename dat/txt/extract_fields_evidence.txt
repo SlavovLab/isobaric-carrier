@@ -1,0 +1,15 @@
+Mz
+MonoMz
+z
+RT
+ReL
+PIF
+Score
+PEP
+Intensity
+modif
+MS2Best
+MS2ID
+Evi_ID
+Mass
+numPSMs
