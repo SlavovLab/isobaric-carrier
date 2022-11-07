@@ -7,7 +7,7 @@ Optimizing accuracy and depth of protein quantification in experiments using iso
 
 * [Website](https://scope2.slavovlab.net/mass-spec/Isobaric-carrier-optimization)
 * [Download data](https://scope2.slavovlab.net/mass-spec/Isobaric-carrier-optimization#data)
-* [Manuscript](https://www.biorxiv.org/content/10.1101/2020.08.24.264994v3)
+* [Manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775882/)
 
 <img src="https://scope2.slavovlab.net/mass-spec/Figures/Single-cell-Proteomics_Applications_iCarrier.png" width="70%">
 
@@ -30,7 +30,7 @@ DO-MS is a project...
 
 The manuscript for this tool is published at the Journal of Proteome Research: [https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039)
 -->
-The manuscript is freely available on bioRxiv: [Specht and Slavov, 2020](https://doi.org/10.1101/2020.08.24.264994), doi: [10.1101/2020.08.24.264994](https://doi.org/10.1101/2020.08.24.264994)
+The manuscript is freely available on bioRxiv: [Specht and Slavov, 2020](https://doi.org/10.1101/2020.08.24.264994), doi: [10.1101/2020.08.24.264994](https://doi.org/10.1101/2020.08.24.264994). It is also avilable at the Journal of Proteome Research 2021, 20, 1, 880–887, [10.1021/acs.jproteome.0c00675](https://doi.org/10.1021/acs.jproteome.0c00675) 
 
 Contact the authors by email: [nslavov\{at\}northeastern.edu](mailto:nslavov@northeastern.edu).
 
